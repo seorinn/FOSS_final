@@ -1,0 +1,1079 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+<header adminlang="en" srclang="en">
+</header>
+<body>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Check for update</seg>
+</tuv>
+<tuv xml:lang="ko">
+<seg>앱이 최신 버전인지 확인하세요</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>views</seg>
+</tuv>
+<tuv xml:lang="ko">
+<seg>보기</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Could not open in VLC. It might not be installed.</seg>
+</tuv>
+<tuv xml:lang="ko">
+<seg>VLC에서 열 수 없습니다. 설치되어 있지 않습니다.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Version %1$s</seg>
+</tuv>
+<tuv xml:lang="ko">
+<seg>버전 %1$s</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Restart the app to use the new changes.</seg>
+</tuv>
+<tuv xml:lang="ko">
+<seg>변경사항을 적용하기 위해 앱을 다시 시작하세요.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>YouTube</seg>
+</tuv>
+<tuv xml:lang="ko">
+<seg>유튜브</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Landscape</seg>
+</tuv>
+<tuv xml:lang="ko">
+<seg>풍경</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Portrait</seg>
+</tuv>
+<tuv xml:lang="ko">
+<seg>인물 사진</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Community</seg>
+</tuv>
+<tuv xml:lang="ko">
+<seg>공동체</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Wi-Fi</seg>
+</tuv>
+<tuv xml:lang="ko">
+<seg>와이파이</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Exported.</seg>
+</tuv>
+<tuv xml:lang="ko">
+<seg>내보내기 완료</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Exported.</seg>
+</tuv>
+<tuv xml:lang="ko">
+<seg>내보내기 완료.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Shows a notification when new streams are available.</seg>
+</tuv>
+<tuv xml:lang="ko">
+<seg>새 스트림이 열렸을 때 알림을 표시합니다.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Notification Worker</seg>
+</tuv>
+<tuv xml:lang="ko">
+<seg>채널 이름 입력</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Download Service</seg>
+</tuv>
+<tuv xml:lang="ko">
+<seg>다운로드 서비스</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Shows a notification when downloading media.</seg>
+</tuv>
+<tuv xml:lang="ko">
+<seg>다운로드 중에 알림을 표시합니다.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Background Mode</seg>
+</tuv>
+<tuv xml:lang="ko">
+<seg>백그라운드 드</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Background Mode</seg>
+</tuv>
+<tuv xml:lang="ko">
+<seg>백그라운드 모드</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Shows a notification with buttons to control the audio player.</seg>
+</tuv>
+<tuv xml:lang="ko">
+<seg>오디오 플레이어 제어 버튼이 있는 알림을 표시한다.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>App Backup</seg>
+</tuv>
+<tuv xml:lang="ko">
+<seg>앱 백업</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>You&#x27;ve seen all new videos</seg>
+</tuv>
+<tuv xml:lang="ko">
+<seg>새로운 비디오를 모두 시청했다.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>You&#x27;ve seen all new videos</seg>
+</tuv>
+<tuv xml:lang="ko">
+<seg>새로운 비디오를 모두 시청함</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Tap twice at the left or right to rewind or forward the player position.</seg>
+</tuv>
+<tuv xml:lang="ko">
+<seg>왼쪽이나 오른쪽을 두 번 눌러 플레이어 위치를 되감거나 앞으로 이동합니다.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Double tap to seek</seg>
+</tuv>
+<tuv xml:lang="ko">
+<seg>찾으려면 더블 탭</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Use HLS instead of DASH (will be slower, not recommended)</seg>
+</tuv>
+<tuv xml:lang="ko">
+<seg>DASH 대신에 HLS를 사용하세요 (느려질 수 있고, 추천하지 않는다)</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Use pinch gesture to zoom in/out.</seg>
+</tuv>
+<tuv xml:lang="ko">
+<seg>핀치 제스처를 이용하여 확대/축소합니다.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>This video has no comments available.</seg>
+</tuv>
+<tuv xml:lang="ko">
+<seg>이 비디오에는 이용할 수 있는 댓글이 없습니다.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Comments are disabled by the uploader.</seg>
+</tuv>
+<tuv xml:lang="ko">
+<seg>게시자에 의해 댓글이 제한되었습니다.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Pop-Up</seg>
+</tuv>
+<tuv xml:lang="ko">
+<seg>팝업</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Defaults</seg>
+</tuv>
+<tuv xml:lang="ko">
+<seg>기본값</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Brightness</seg>
+</tuv>
+<tuv xml:lang="ko">
+<seg>밝기</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Please select an other start tab first!</seg>
+</tuv>
+<tuv xml:lang="ko">
+<seg>먼저 다른 시작 탭을 선택하세요!</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Menu item not enabled!</seg>
+</tuv>
+<tuv xml:lang="ko">
+<seg>메뉴 아이템이 허용되지 않았습니다!</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Local playlists</seg>
+</tuv>
+<tuv xml:lang="ko">
+<seg>로컬 플레이리스트</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>No bookmarks yet!</seg>
+</tuv>
+<tuv xml:lang="ko">
+<seg>아직 북마크가 없습니다!</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Clear bookmarks</seg>
+</tuv>
+<tuv xml:lang="ko">
+<seg>북마크 지우기</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Bookmark</seg>
+</tuv>
+<tuv xml:lang="ko">
+<seg>북마크</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Bookmarks</seg>
+</tuv>
+<tuv xml:lang="ko">
+<seg>북마크 목록</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Clear bookmarks</seg>
+</tuv>
+<tuv xml:lang="ko">
+<seg>북마크 목록 지우기</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>No bookmarks yet!</seg>
+</tuv>
+<tuv xml:lang="ko">
+<seg>아직 북마크 목록이 없습니다!</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>What&#x27;s trending now</seg>
+</tuv>
+<tuv xml:lang="ko">
+<seg>현재 트렌드</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Auto</seg>
+</tuv>
+<tuv xml:lang="ko">
+<seg>자동</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Show the related videos as a row above the comments instead of below.</seg>
+</tuv>
+<tuv xml:lang="ko">
+<seg>관련 동영상을 댓글 아래 대신 위로 표시합니다.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Alternative player layout</seg>
+</tuv>
+<tuv xml:lang="ko">
+<seg>대체 플레이어 레이아웃</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Confirm unsubscribing</seg>
+</tuv>
+<tuv xml:lang="ko">
+<seg>구독 취소 확인</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Layout</seg>
+</tuv>
+<tuv xml:lang="ko">
+<seg>레이아웃</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Time span in which notifications are allowed to show.</seg>
+</tuv>
+<tuv xml:lang="ko">
+<seg>알림을 표시할 수 있는 시간 범위.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Notification time</seg>
+</tuv>
+<tuv xml:lang="ko">
+<seg>대체 시간</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>End time</seg>
+</tuv>
+<tuv xml:lang="ko">
+<seg>종료 시간</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Start time</seg>
+</tuv>
+<tuv xml:lang="ko">
+<seg>시작 시간</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Time</seg>
+</tuv>
+<tuv xml:lang="ko">
+<seg>시간</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Show a confirmation dialog before unsubscribing.</seg>
+</tuv>
+<tuv xml:lang="ko">
+<seg>구독을 취소하기 전에 확인 대화 상자를 표시합니다.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Are you sure you want to unsubscribe %1$s?</seg>
+</tuv>
+<tuv xml:lang="ko">
+<seg>정말 구독을 취소하시겠습니까?%1$s</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Are you sure you want to unsubscribe %1$s?</seg>
+</tuv>
+<tuv xml:lang="ko">
+<seg>정말 구독을 취소하시겠습니까%1$s?</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Playlist cloned</seg>
+</tuv>
+<tuv xml:lang="ko">
+<seg>재생 목록 복제</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Default light</seg>
+</tuv>
+<tuv xml:lang="ko">
+<seg>기본 조명</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Alternative videos layout</seg>
+</tuv>
+<tuv xml:lang="ko">
+<seg>대체 비디오 레이아</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Alternative videos layout</seg>
+</tuv>
+<tuv xml:lang="ko">
+<seg>대체 비디오 레이아웃</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Livestreams</seg>
+</tuv>
+<tuv xml:lang="ko">
+<seg>라이브 방송</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Mark the segments on the time bar.</seg>
+</tuv>
+<tuv xml:lang="ko">
+<seg>시간 표시줄에 세그먼트를 표시합니다.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Playing queue</seg>
+</tuv>
+<tuv xml:lang="ko">
+<seg>대기열 재생</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Time code (seconds)</seg>
+</tuv>
+<tuv xml:lang="ko">
+<seg>시간 코드(초)</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Show more</seg>
+</tuv>
+<tuv xml:lang="ko">
+<seg>더 보기</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Recently updated (reversed)</seg>
+</tuv>
+<tuv xml:lang="ko">
+<seg>최근에 업데이트 됨(반전됨)</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Recently updated</seg>
+</tuv>
+<tuv xml:lang="ko">
+<seg>최근에 업데이트됨</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Recently updated</seg>
+</tuv>
+<tuv xml:lang="ko">
+<seg>최근에 업데이트 됨</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Please select at least one item</seg>
+</tuv>
+<tuv xml:lang="ko">
+<seg>최소한 하나의 아이템을 선택하세요.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Default</seg>
+</tuv>
+<tuv xml:lang="ko">
+<seg>기본값</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>A lower value may speed up initial video loading.</seg>
+</tuv>
+<tuv xml:lang="ko">
+<seg>값이 작을수록 초기 비디오 로드 속도가 빨라질 수 있습니다.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>A lower value may speed up initial video loading.</seg>
+</tuv>
+<tuv xml:lang="ko">
+<seg>값이 작을수록 초기 비디오 로딩 속도가 빨라질 수 있습니다.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Limit HLS to 1080p</seg>
+</tuv>
+<tuv xml:lang="ko">
+<seg>HLS를 1080p로 제한</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Please select at least one item</seg>
+</tuv>
+<tuv xml:lang="ko">
+<seg>최소한 하나의 아이템을 선택하세요</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Navigation bar</seg>
+</tuv>
+<tuv xml:lang="ko">
+<seg>네비게이션 바</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Play next</seg>
+</tuv>
+<tuv xml:lang="ko">
+<seg>다음 재생</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Load the subscription feed in the background and prevent it from being auto-refreshed.</seg>
+</tuv>
+<tuv xml:lang="ko">
+<seg>헤드라인 등록 피드를 백그라운드로 로드하여 자동으로 새로 고쳐지지 않도록 합니다.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Load feed in background</seg>
+</tuv>
+<tuv xml:lang="ko">
+<seg>백그라운드에서 피드 로드</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Custom Instances</seg>
+</tuv>
+<tuv xml:lang="ko">
+<seg>사용자 지정 인스턴스</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Preferences</seg>
+</tuv>
+<tuv xml:lang="ko">
+<seg>선호</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Local subscriptions</seg>
+</tuv>
+<tuv xml:lang="ko">
+<seg>로컬 구독</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Minimalistic Monochrome</seg>
+</tuv>
+<tuv xml:lang="ko">
+<seg>미니멀리즘 단색</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Please select an other start tab first!</seg>
+</tuv>
+<tuv xml:lang="ko">
+<seg>먼저 다른 시작 탭을 선택하십시오!</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Menu item not enabled!</seg>
+</tuv>
+<tuv xml:lang="ko">
+<seg>메뉴 항목을 사용할 수 없습니다!</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Bookmark</seg>
+</tuv>
+<tuv xml:lang="ko">
+<seg>책갈피</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>What&#x27;s trending now</seg>
+</tuv>
+<tuv xml:lang="ko">
+<seg>최신 유행</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Use HLS instead of DASH (will be slower, not recommended)</seg>
+</tuv>
+<tuv xml:lang="ko">
+<seg>DASH 대신 HLS 사용(속도가 느리고 권장되지 않음)</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Alternative player layout</seg>
+</tuv>
+<tuv xml:lang="ko">
+<seg>대체 사용자 배치</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Order</seg>
+</tuv>
+<tuv xml:lang="ko">
+<seg>순서</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Alternative trending layout</seg>
+</tuv>
+<tuv xml:lang="ko">
+<seg>대체 유행 배치</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Pitch</seg>
+</tuv>
+<tuv xml:lang="ko">
+<seg>정점</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Progressive load interval size</seg>
+</tuv>
+<tuv xml:lang="ko">
+<seg>점진적 로드 간격 크기</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Trending seems to be unavailable for the current region. Please select another in the settings.</seg>
+</tuv>
+<tuv xml:lang="ko">
+<seg>현재 지역에서는 추세를 사용할 수 없는 것 같습니다. 설정에서 다른 항목을 선택하십시오.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Show a badge with the amount of new videos if there are some.</seg>
+</tuv>
+<tuv xml:lang="ko">
+<seg>새 비디오의 양이 포함된 배지가 있으면 표시합니다.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Indicator for new videos</seg>
+</tuv>
+<tuv xml:lang="ko">
+<seg>새 비디오 표시기</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Mobile data</seg>
+</tuv>
+<tuv xml:lang="ko">
+<seg>모바일 데이터</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Rename playlist</seg>
+</tuv>
+<tuv xml:lang="ko">
+<seg>재생 목록 이름 바꾸기</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Minutes before being reminded</seg>
+</tuv>
+<tuv xml:lang="ko">
+<seg>알림을 받기 전의 몇 분</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Max image cache size</seg>
+</tuv>
+<tuv xml:lang="ko">
+<seg>최대 이미지 캐시 크기</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Resize mode</seg>
+</tuv>
+<tuv xml:lang="ko">
+<seg>크기 조정 모드</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Picture in Picture</seg>
+</tuv>
+<tuv xml:lang="ko">
+<seg>사진 속의 사진</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Current</seg>
+</tuv>
+<tuv xml:lang="ko">
+<seg>현재의</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>None</seg>
+</tuv>
+<tuv xml:lang="ko">
+<seg>없음</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Zoom</seg>
+</tuv>
+<tuv xml:lang="ko">
+<seg>확대</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Fit</seg>
+</tuv>
+<tuv xml:lang="ko">
+<seg>딱 맞는</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Fill</seg>
+</tuv>
+<tuv xml:lang="ko">
+<seg>채우기</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Repeat Mode</seg>
+</tuv>
+<tuv xml:lang="ko">
+<seg>반복 모드</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>No subtitles available</seg>
+</tuv>
+<tuv xml:lang="ko">
+<seg>사용 가능한 자막 없음</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>You already spent %1$s minutes in the app, time to take a break.</seg>
+</tuv>
+<tuv xml:lang="ko">
+<seg>당신은 이미 앱에서 %1$s 분을 보냈고, 휴식을 취할 시간입니다.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Time to take a break</seg>
+</tuv>
+<tuv xml:lang="ko">
+<seg>휴식을 취할 시간</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Break reminder</seg>
+</tuv>
+<tuv xml:lang="ko">
+<seg>알림 끊기</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Maximum history size</seg>
+</tuv>
+<tuv xml:lang="ko">
+<seg>최대 기록 크기</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Show buttons to skip to the next or previous video.</seg>
+</tuv>
+<tuv xml:lang="ko">
+<seg>버튼을 표시하여 다음 또는 이전 비디오로 건너뜁니다.</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Skip buttons</seg>
+</tuv>
+<tuv xml:lang="ko">
+<seg>건너뛰기 버튼</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Metered</seg>
+</tuv>
+<tuv xml:lang="ko">
+<seg>미터링됨</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>All</seg>
+</tuv>
+<tuv xml:lang="ko">
+<seg>모두</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>All</seg>
+</tuv>
+<tuv xml:lang="ko">
+<seg>전체</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Never</seg>
+</tuv>
+<tuv xml:lang="ko">
+<seg>전혀 아닌</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Always</seg>
+</tuv>
+<tuv xml:lang="ko">
+<seg>항상</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Label visibility</seg>
+</tuv>
+<tuv xml:lang="ko">
+<seg>레이블 가시성</seg>
+</tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en">
+<seg>Matrix</seg>
+</tuv>
+<tuv xml:lang="ko">
+<seg>매트릭스</seg>
+</tuv>
+</tu>
+
+</body>
+</tmx>
